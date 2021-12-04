@@ -6,9 +6,9 @@
       "improv": false,
       "parts": [
 	{ "path": "bootloader_qio_80m.bin", "offset": 4096 },
-        { "path": "TetrisClock.ino.partitions.bin", "offset": 32768 },
+        { "path": "FinalTetrisClockWebUpdater.ino.partitions.bin", "offset": 32768 },
         { "path": "boot_app0.bin", "offset": 57344 },
-        { "path": "TetrisClock.ino.bin", "offset": 65536 }
+        { "path": "FinalTetrisClockWebUpdater.ino.bin", "offset": 65536 }
       ]
     }
   ]
